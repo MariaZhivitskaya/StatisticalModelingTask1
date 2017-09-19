@@ -1,0 +1,15 @@
+Momentst Coincidence Test
+p1 = 0.0573999999999999, p2 = 0.5486
+
+Random selection is correct
+-----------------------------------------
+Chi Squared Criteria
+p = 0.25
+
+Random selection is correct
+-----------------------------------------
+Kolmogorov Criteria
+Dn = 0.038696, p = 0.0681
+
+Random selection is correct
+-----------------------------------------
