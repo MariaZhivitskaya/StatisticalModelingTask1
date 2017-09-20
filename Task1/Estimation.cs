@@ -116,7 +116,7 @@ namespace Task1
 
             KolmogorovCriteriaP = GetKolmogorovDistributionFunction(Math.Sqrt(n) * Dn);
 
-            return 1 - KolmogorovCriteriaP > eps;
+            return KolmogorovCriteriaP > eps;
         }
 
         private double GetKolmogorovDistributionFunction(double x)

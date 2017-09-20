@@ -5,4 +5,5 @@
         double F(double x);
         double Left();
         double Right();
+    }
 }
